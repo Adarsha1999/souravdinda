@@ -40,3 +40,11 @@ As we all know that under <b>engineering</b>, technical skills always provide un
  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
  [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
  
+ ## My Hobbies ✍
+
+<img align='left' src='https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif' width='200"'>
+Having a hobby is a <b>great</b> <img align='right' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/hobbies.png' width='300"'><b>thing</b> for each and everyone because it not only entertains you,
+but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books. I have also started writing so that I could make my hobby as my profession and some of them are as follows.
+##
+ 
+ 
