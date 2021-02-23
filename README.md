@@ -6,6 +6,7 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/souravdinda)
 [![Linkedin Badge](https://img.shields.io/badge/-sourav%20dinda-green?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sourav-dinda-8025491b7/)](https://www.linkedin.com/in/sourav-dinda-8025491b7/)
+[![Instagram Badge](https://img.shields.io/badge/-sourav%20dinda-yellow?style=social&logo=Instagram&link=https://www.instagram.com/souravdinda1/?hl=en/)](https://www.instagram.com/souravdinda1/?hl=en/) 
 <div>
  <p>
   <img width="240" height="230" align='right' src="https://github.com/souravdinda/souravdinda/blob/main/118543317_1468296280020170_963459639370980030_n.jpg"> 
