@@ -12,4 +12,12 @@
 </p>
   
 ## About Me ✍
- I m <b> Sourav Dinda </b>, a pursuing <b>Computer Science Engineer</b> Currently Technical Specialist Learner At [<b>ARTH THE SCHOOL OF TECHNOLOGIES</b>](https://rightarth.com/) under the mentorship of [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/) sir.  As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
+ I m <b> Sourav Dinda </b>, a pursuing <b>Computer Science Engineer</b> , Currently Technical Specialist Learner At [<b>ARTH THE SCHOOL OF TECHNOLOGIES</b>](https://rightarth.com/) under the mentorship of [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/) sir.  As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
+
+</div>
+
+<!--technical skill-->
+
+## Technical Skills 🛠 
+<img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='250"'>
+As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the engineer always help him, in the same way at all the time, Just as <b>Yodhya</b> protects his life from his enemies using the weapons and scriptures in a war. I am also an engineer, so I too should have such weapons and scriptures, so I  have some technical skills too,  which are the following but I am also in a learning state and learning many tools and technologies under the World Record Holder [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) in the one of the best training Program [<b>Arth-the school of technologies</b>](https://rightarth.com/) of [<b>Linux World informatics Pvt Ltd</b>](https://www.linuxworldindia.org/).
